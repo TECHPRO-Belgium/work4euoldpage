@@ -1,0 +1,10 @@
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  header {
+    background: #1551a1;
+  }
+  #slider_blocks {
+    position: relative;
+    margin-top: 0;
+    overflow: hidden;
+  }
+}
